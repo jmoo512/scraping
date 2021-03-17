@@ -6,4 +6,4 @@ This app is designed to map card IDs from one Magic: The Gathering site to the n
 
 ## Price Scrape
 
-This app scrapes price data from Cardsphere.com (with permission) to populate card and deck prices for pauperbattlebox.com
+This app scrapes price data from Cardsphere.com (with permission) to populate card and deck prices for [PauperBattleBox](https://www.pauperbattlebox.com)
