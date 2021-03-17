@@ -2,7 +2,7 @@
 
 ## Card Map
 
-This app is designed to map card IDs from one Magic: The Gathering site to the next. Most sites have their own card IDs, and this app attempts to use data from [mtgjson](http://www.mtgjson.com) and [scryfall](http://www.scryfall.com) to map them based on their universal collector number for each set.
+This app is designed to map card IDs from one Magic: The Gathering site to the next. Most sites have their own card IDs, and this app attempts to use data from [mtgjson](http://www.mtgjson.com) and [scryfall](http://www.scryfall.com) to map them based on their universal collector number for each set. Work in progress for a much larger project TBA.
 
 ## Price Scrape
 
